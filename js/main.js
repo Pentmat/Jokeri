@@ -1,0 +1,1 @@
+document.getElementById('uusiRiviBtn').addEventListener('click', generoiUusiRivi);
